@@ -1,0 +1,12 @@
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/controllers/ProductController.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/services/IProductService.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/mappers/IMapper.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/models/dto/ProductRequest.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/services/ProductServiceV1.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/exceptions/ProductNotFoundException.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/controllers/GlobalExceptionHandler.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/MproduitsApplication.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/models/entities/Product.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/mappers/ProductMapper.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/configurations/ApplicationPropertiesConfiguration.java
+/home/user1/Desktop/springCloudDevoir/mproduits/src/main/java/com/mproduits/dao/ProductDao.java
